@@ -4,7 +4,7 @@
 This course will be offered **permanently** at Wellesley under a **new course number, [CS345](https://mogu-lab.github.io/cs345/)**. Note the course and its prerequisites have changed a little since its first offering in Fall 2024, so be sure to check the Wellesley Course Browser for the most up-to-date information!
 ```
 
-**instructor:** [Yaniv Yacoby](https://yanivyacoby.github.io/) (he/him)
+**Instructor:** [Yaniv Yacoby](https://yanivyacoby.github.io/) (he/him)
 
 **Semester:** Fall 2024
 
