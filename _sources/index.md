@@ -1,46 +1,10 @@
-```{warning}
-This course will be offered permanently at Wellesley under the course number [CS345](https://mogu-lab.github.io/cs345). Note the course and its prerequisites have changed a little since its first offering in Fall 2024, so be sure to check the Wellesley Course Browser for the most up-to-date information!
-```
-
-
 # Probabilistic Foundations of ML
 
+```{warning}
+This course will be offered **permanently** at Wellesley under a **new course number, [CS345](https://mogu-lab.github.io/cs345)**. Note the course and its prerequisites have changed a little since its first offering in Fall 2024, so be sure to check the Wellesley Course Browser for the most up-to-date information!
+```
 
-
-<table style="width: 100%; text-align: center;">
-<thead>
-  <tr>
-    <th><a href="https://yanivyacoby.github.io/">Yaniv Yacoby</a> <span style="font-weight: normal;">(he/him)</span></th>
-    <th>Sally Kim <span style="font-weight: normal;">(she/her)</span></th>
-    <th>Caroline Jung <span style="font-weight: normal;">(she/her)</span></th>    
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <i>Instructor</i>
-    </td>
-    <td>
-      <i>Teaching Assistant</i>
-    </td>
-    <td>
-      <i>Teaching Assistant</i>
-    </td>
-  </tr>
-  <tr>
-    <td>Assistant Professor<br>Computer Science</td>
-    <td>Math &amp; Computer Science Major<br/>Class of 2025</td>
-    <td>Data Science Major<br/>Class of 2025</td>    
-  </tr>
-  <tr>
-    <td><br/><img style="max-width: 200px; background-color: transparent; border: none;" src="https://yanivyacoby.github.io/assets/img/prof_pic.png"></img></td>
-    <td colspan="2"><br/><img style="max-width: 200px; background-color: transparent; border: none;" src="_static/img/sally_and_caroline.png"></img></td>
-  </tr>      
-</tbody>
-</table>
-
-<br/>
-<br/>
+**instructor:** [Yaniv Yacoby](https://yanivyacoby.github.io/) (he/him)
 
 **Semester:** Fall 2024
 
